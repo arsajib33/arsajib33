@@ -1,5 +1,5 @@
 ## Hi! I'm Arifur Rahaman. I'm a full stack web developer.
-### I've knoladge in the following area.
+### I've knowladge in the following area.
 
 #### HTML
 #### JavaScript
